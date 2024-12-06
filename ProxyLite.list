@@ -13,6 +13,7 @@ IP-CIDR,103.115.43.2/32,no-resolve
 # 国外DNS
 
 DOMAIN-SUFFIX,api.ipify.org
+DOMAIN-SUFFIX,api-ipv4.ip.sb
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
 DOMAIN-SUFFIX,dot.sb
